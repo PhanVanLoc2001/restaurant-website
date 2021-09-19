@@ -1,0 +1,74 @@
+body{
+    font-family: Tahoma;
+    font-size: 13px;
+    width: 1000px;
+    margin: 0px auto;
+}
+#header{
+    height: 35px;
+}
+#header img{
+    height: 30px;
+}
+.logo{
+    width: 10%;
+    float: left;
+    height: 100%;
+}
+.imformation{
+    text-decoration: none;
+    width: 40%;
+    float: right;
+    height: 100%;
+}
+
+
+#searchfoods{       
+    background: url(images/bg.jpg)no-repeat;
+    background-size: cover;
+    padding-top: 100px;
+    text-align: center;
+    height: 180px;
+    width: 1000px;
+}
+.search{
+    height: 4px;
+}
+#explore{
+    height: 320px;
+        
+}
+.product img{
+    height: 240px  ;
+}
+#menu{
+    background: #ececec;
+    height: 450px;
+    width: 1000px;
+    
+}
+.menuorder{
+    width: 44%;
+    background-color: white;
+    margin: 1%;
+    padding: 2%;
+    float: left;
+}
+.menuorder ul{
+    margin: 0px;
+    padding: 0px;
+}
+.menuorder ul li{
+    list-style: none;
+}
+.menuorder ul li img{
+    float: left;
+    margin-right: 10px;
+}
+#signin{
+    height: 70px;
+}
+.imformation a{
+    text-decoration: none;
+}
+

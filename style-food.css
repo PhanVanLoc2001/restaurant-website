@@ -1,0 +1,116 @@
+body{
+    font-family: Tahoma;
+    font-size: 13px;
+    width: 1000px;
+    margin: 0px auto;
+}
+#header{
+    height: 35px;
+}
+#header img{
+    height: 30px;
+}
+.logo{
+    width: 10%;
+    float: left;
+    height: 100%;
+}
+.imformation{
+    text-decoration: none;
+    width: 40%;
+    float: right;
+    height: 100%;
+}
+#searchfoods{   
+    background: url(images/bg.jpg)no-repeat;
+    background-size: cover;
+    padding-top: 100px;
+    text-align: center;
+    height: 180px;
+    width: 1000px;
+}
+.search{
+    height: 4px;
+}
+#menu{
+    background: #ececec;
+    height: 450px;
+    width: 1000px;
+    
+}
+.menuorder{
+    width: 44%;
+    background-color: white;
+    margin: 1%;
+    padding: 2%;
+    float: left;
+}
+.menuorder ul{
+    margin: 0px;
+    padding: 0px;
+}
+.menuorder ul li{
+    list-style: none;
+}
+.menuorder ul li img{
+    float: left;
+    margin-right: 10px;
+}
+#signin{
+    height: 70px;
+}
+#background{
+    background: url(images/bg.jpg)no-repeat;
+    background-size: cover;
+    height: 700px;
+}
+.p22 {
+    background: url(images/order-bg.jpg)no-repeat;
+    background-size: cover;
+}
+.p22 .order{
+    height:100% ;
+}
+.p22 h1 {
+    text-align: center;
+    color: white;
+    padding-top: 50px;
+}
+.p22 .order .title {
+    text-align: center;
+}
+.p22 .order .first {
+   
+    margin-left: 370px;
+    border: 1px solid white;
+    width: 40%;
+    height: 200px;
+}
+.p22 .order .first img {
+  
+   float: left;
+
+}
+.p22 .order .first .nd {
+    padding-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    
+}
+.p22 .order .first .nd .number {
+    width: 250px;  
+}
+.p22 .order .secone {
+    margin-left: 370px;
+    border: 1px solid white;
+    width: 60%;
+    height: 500px;
+
+}
+.p22 .order .secone .bodyforsecone {
+    margin-left: 5px;
+}
+.p22 .order .secone .label{
+    width: 480px;
+    height: 20px;
+}
